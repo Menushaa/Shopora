@@ -1,0 +1,12 @@
+bin/
+obj/
+node_modules/
+.env
+.env.*
+!.env.example
+*.user
+.vs/
+logs/
+test-results/
+playwright-report/
+appsettings.Production.json
